@@ -1,6 +1,6 @@
 # terraform-aws-icmp
 
-How to Allow ICMP Traffic Between Two EC2 Instances Using Terraform
+**How to Allow ICMP Traffic Between Two EC2 Instances Using Terraform**
 
 First, configure the AWS CLI in the terminal and create a directory for the Terraform project.
 
